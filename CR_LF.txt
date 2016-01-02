@@ -1,0 +1,2 @@
+CR -> Carrier Return
+LF -> Line Feed
